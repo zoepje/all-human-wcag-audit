@@ -1,4 +1,4 @@
-# Companion App
+# Improve accessibility of the FDND visitatie-website
 Verbeter de toegankelijkheid van de website van FDND.
 
 ## Context
@@ -14,40 +14,6 @@ De FDND.nl website moet toegankelijk zijn voor iedereen. Onderzoek hoe je de toe
 
 Voer een web content accessibility guidelines controle uit op een website en presenteer je bevindingen.
 
-## Planning
-<table>
-    <tr>
-        <td colspan="4"><b>Week 1</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>25/10/2021</td>
-        <td>13:00 uur *</td>
-        <td>Briefing</td>
-    </tr>
-    <tr>
-        <td>Dinsdag</td>
-        <td>26/10/2021</td>
-        <td>13:00 uur *</td>
-        <td>Debriefing</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 2</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>02/11/2021</td>
-        <td>13:00 uur *</td>
-        <td>Feedbacksessie</td>
-    </tr>
-    <tr>
-        <td>Donderdag</td>
-        <td>04/11/2021</td>
-        <td>13:00 uur *</td>
-        <td>Oplevering</td>
-    </tr>
-</table>
-* vanaf 13:00 uur
 
 ## Werkwijze
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
