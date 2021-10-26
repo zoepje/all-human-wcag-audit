@@ -10,8 +10,7 @@ Je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
 
 ## Briefing
 
-Voor de visitatie van de opleiding FDND is een website gemaakt zodat de commissie documenten kan lezen over de opleiding. 
-De visitatie website moet toegankelijk zijn voor iedereen. 
+De website van de Ad Frontend Design & Development, [fdnd.nl](https://fdnd.nl), bevat informatie over de opleiding.  
 Onderzoek hoe je de toegankelijkheid van de website kan verbeteren en presenteer aan de hand van een prototype hoe de verbeteringen in de website toegepast kunnen worden.
  
 ## Doel van deze opdracht
