@@ -1,14 +1,18 @@
 # Improve accessibility of the FDND visitatie-website
-Verbeter de toegankelijkheid van de website van FDND.
+
+Verbeter de toegankelijkheid van de visitatie website van FDND.
 
 ## Context
-Deze leertaak hoort bij sprint **All Human**. Dit is een **autonomous** leertaak die je individueel uitvoert voor mijnHvA Student.
+
+Deze leertaak hoort bij sprint **All Human**. 
+Dit is een voorbeeld taak en wordt behandeld tijdens een aantal workshops. 
+Je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
 
 ## Briefing
 
-FDND is dé HBO opleiding voor aanstormende Frontend talenten!
-
-De FDND.nl website moet toegankelijk zijn voor iedereen. Onderzoek hoe je de toegankelijkheid van de website kan verbeteren en presenteer aan de hand van een prototype hoe de verbeteringen in de website toegepast kunnen worden.
+Voor de visitatie van de opleiding FDND is een website gemaakt zodat de commissie documenten kan lezen over de opleiding. 
+De visitatie website moet toegankelijk zijn voor iedereen. 
+Onderzoek hoe je de toegankelijkheid van de website kan verbeteren en presenteer aan de hand van een prototype hoe de verbeteringen in de website toegepast kunnen worden.
  
 ## Doel van deze opdracht
 
@@ -21,5 +25,3 @@ Deze opdracht gaat over [testen](#testen) van de DLC.
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
-## Criteria
-*Definitions of done*
