@@ -25,3 +25,43 @@ Deze opdracht gaat over [testen](#testen) van de DLC.
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
+
+#### Screenreader
+
+Doe een check op de img en alt teksten, headings en nav elementen met een screenreader. 
+
+<details>
+<summary>Aanpak</summary>
+
+ 1. djhfdj
+ 2. dsjh kdsj
+
+#### Materiaal Screenreader
+
+ - [A11yproject Checklist: Headings ](https://www.a11yproject.com/checklist/#headings)
+ - 
+
+</details>
+
+
+
+#### Keyboard navigatie
+
+intereactieve elemente en focus
+Volgorde ... 
+
+<details>
+<summary>Aanpak</summary>
+
+ 1. djhfdj
+ 2. dsjh kdsj
+
+#### Materiaal Keyboard navigatie
+
+ - [A11yproject Keyboard: Headings ](https://www.a11yproject.com/checklist/#keyboard)
+ - [The no mouse challlenge](https://uxdesign.cc/taking-the-keyboard-navigation-red-pill-dbb76dd73b1e)
+
+</details>
+
+
+
