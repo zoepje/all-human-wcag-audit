@@ -1,6 +1,6 @@
-# Improve accessibility of the FDND visitatie-website
+# Toegankelijkheid audit FDND website
 
-Verbeter de toegankelijkheid van de visitatie website van FDND.
+Verbeter de toegankelijkheid van de website van FDND.
 
 ## Context
 
