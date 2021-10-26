@@ -24,7 +24,7 @@ Deze opdracht gaat over [testen](#testen) van de DLC.
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
-#### Lighthouse audit voor
+#### Lighthouse audit vóór verbeteringen
 
 <details>
 <summary>Aanpak</summary>
@@ -77,7 +77,7 @@ Test met een screenreader of de website goed te gebruiken is als je de website n
 
 </details>
 
-#### Lighthouse audit na
+#### Lighthouse audit na verbeteringen
 
 <details>
 <summary>Aanpak</summary>
