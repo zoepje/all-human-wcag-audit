@@ -24,55 +24,70 @@ Deze opdracht gaat over [testen](#testen) van de DLC.
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
-#### Keyboard navigatie
-
-Intereactieve elemente en focus
-Tabvolgorde ... 
+#### Lighthouse audit voor
 
 <details>
 <summary>Aanpak</summary>
 
- 1. ...
- 2. ...
+Doe een lighthouse audit voor toegankelijkheid en maak een screenshot van de score. Zet het screenshot in de readme.
+
+#### Materiaal Lighthouse
+
+ - [Test accessibility with Chrome DevTools](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
+
+
+</details>
+
+#### Keyboard navigatie
+
+Test in hoeverre het mogelijk is om met alleen een toetsenbord door de website te navigeren
+
+<details>
+<summary>Aanpak</summary>
+
+ 1. Navigeer door de website met je toetsenbord. Controleer of interactieve elementen een goede focus state hebben en een logische volgorde
+ 2. Maak issues aan waar nodig en los de issues op in code
 
 #### Materiaal Keyboard navigatie
 
- - [A11yproject Keyboard: Headings ](https://www.a11yproject.com/checklist/#keyboard)
+ - [A11yproject Controls: Headings ](https://www.a11yproject.com/checklist/#controls)
  - [The no mouse challlenge](https://uxdesign.cc/taking-the-keyboard-navigation-red-pill-dbb76dd73b1e)
 
 </details>
 
 #### Screenreader
 
-Doe een check op de img en alt teksten, headings en nav elementen met een screenreader. 
+Test met een screenreader of de website goed te gebruiken is als je de website niet kan zien
 
 <details>
 <summary>Aanpak</summary>
 
- 1. djhfdj
- 2. dsjh kdsj
+ 1. Navigeer met een screenreader door de website. Test of het je lukt om snel door de heading structuur en landmarks te navigeren
+ 2. Check of content images een alternatieve tekst hebben
+ 3. Check of interactieve elementen een betekenisvolle tekst hebben die duidleijk maken waar naartoe genavigeerd kan worden
+ 4. Maak issues aan waar nodig en los de issues op in code
 
 #### Materiaal Screenreader
-
+ - [VoiceOver een Mac OS screenreader](https://webaim.org/articles/voiceover/)
+ - [JAWS on Windows](https://downloads.sensotec.be/Jaws/Sneltoetsen-JAWS2018.pdf)
+ - [A11yproject Checklist: Global code ](https://www.a11yproject.com/checklist/#https://www.a11yproject.com/checklist/#global-code)
  - [A11yproject Checklist: Headings ](https://www.a11yproject.com/checklist/#headings)
- - 
+ - [A11yproject Checklist: Controls ](https://www.a11yproject.com/checklist/#controls)
+ - [A11yproject Checklist: Images ](https://www.a11yproject.com/checklist/#images)
 
 </details>
 
-#### Lighthouse audit
-
-intereactieve elemente en focus
-Volgorde ... 
+#### Lighthouse audit na
 
 <details>
 <summary>Aanpak</summary>
 
- 1. djhfdj
- 2. dsjh kdsj
+ 1. Doe opnieuw een lighthouse audit voor toegankelijkheid
+ 2. Maak een screenshot van de score en zet deze onder het eerste screenshot
 
-#### Materiaal Keyboard navigatie
+#### Materiaal Lighthouse
 
- - [A11yproject Keyboard: Headings ](https://www.a11yproject.com/checklist/#keyboard)
- - [The no mouse challlenge](https://uxdesign.cc/taking-the-keyboard-navigation-red-pill-dbb76dd73b1e)
+ - [Test accessibility with Chrome DevTools](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
+ 
 
 </details>
