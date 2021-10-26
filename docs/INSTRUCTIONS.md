@@ -24,6 +24,23 @@ Deze opdracht gaat over [testen](#testen) van de DLC.
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
+#### Keyboard navigatie
+
+Intereactieve elemente en focus
+Tabvolgorde ... 
+
+<details>
+<summary>Aanpak</summary>
+
+ 1. ...
+ 2. ...
+
+#### Materiaal Keyboard navigatie
+
+ - [A11yproject Keyboard: Headings ](https://www.a11yproject.com/checklist/#keyboard)
+ - [The no mouse challlenge](https://uxdesign.cc/taking-the-keyboard-navigation-red-pill-dbb76dd73b1e)
+
+</details>
 
 #### Screenreader
 
@@ -42,9 +59,7 @@ Doe een check op de img en alt teksten, headings en nav elementen met een screen
 
 </details>
 
-
-
-#### Keyboard navigatie
+#### Lighthouse audit
 
 intereactieve elemente en focus
 Volgorde ... 
@@ -61,5 +76,3 @@ Volgorde ...
  - [The no mouse challlenge](https://uxdesign.cc/taking-the-keyboard-navigation-red-pill-dbb76dd73b1e)
 
 </details>
-
-
