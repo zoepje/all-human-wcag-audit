@@ -82,8 +82,9 @@ Using Combined Expertise to Evaluate Web Accessibility
 https://www.w3.org/WAI/eval/reviewteams
 
 ## Bijlagen
+Lighthouse accessibility score before improvements:
+![Lighthouse accessibility score before improvements](/assets/a11y-before.png)
 
-[Attach detailed validator and evaluation tool reports here]
 
 
 [Einde van het template]
