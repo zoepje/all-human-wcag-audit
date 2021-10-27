@@ -1,7 +1,7 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Rapportage beoordeling webtoegankelijkheid voor {Frontend Design & Development}
-*Dit document bevat een format voor het communiceren van resultaten van een evaluatie van toegankelijkheid op een website volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
+*Dit document beschrijft een format voor het communiceren van resultaten van een evaluatie van toegankelijkheid op een website volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
 
 {Voorblad met titel, screenshot van betreffende website, datum van evaluatie en de naam of het logo van jouw onderneming}
 
@@ -48,26 +48,24 @@ De beoordeling van webtoegankelijkheid vereist een combinatie van semi-geautomat
 {Naam van de beoordelaar of het beoordelingsteam, tenzij anoniem}\
 {Organisatie waar de beoordelaars mee geaffilieerd zijn, wanneer relevant en als niet anoniem}\
 {Contactinformatie van de beoordelaar(s), tenzij anoniem}\
-{Expertisegebied van de beoordelaars op basis van naamgeving in de referentie: “Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid”}
+{Expertisegebied van de beoordelaars op basis van naamgeving in de referentie: “Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid”}\
 {Niveau van natuurlijke taal/talen waarin de beoordelaar(s) communiceert/communiceren}
 
 ## Beoordelingsproces
 
-[Identify WCAG 2.1 Level for which conformance was tested, e.g., WCAG 2.1 Level A, AA, AAA]
-[Identify evaluation and validation tools used, and versions thereof]
-[Description of manual reviews (usability testing of accessibility features) used]s
+{Benoem het WCAG 2.1 niveau waarvoor de beoordeling is uitgevoerd, bv. WCAG 2.1 Niveau A, AA of AAA}\
+{Benoem de beoordelings- en evaluatietools en versies van de tools die gebruikt zijn}\
+{Beschrijf hoe handmatige beoordeling is uitgevoerd, bv. usability test of toegankelijkheidstest aan de hand van a11y-checklist}
 
 ## Resultaten en aanbevelingen
 
-[Interpretative summary of review results]
-[e.g. this website appears to [meet/ not meet/ is close to meeting] WCAG 2.1 A, AA, AAA]
-[accessibility features in which this site is strong include _______]
-[recommended priorities for addressing inaccessible features of site]
-[Detailed results, structured according to WCAG 2.1]
-[include links to WCAG 2.1 success criteria and techniques for all non-conformant items]
-[attach or link to specific reports in appendices, e.g. output of validators and evaluation tools]
-[provide recommendations for addressing non-conformant checkpoints]
-[Describe or point to a suggested program of on-going monitoring of website accessibility, re-evaluation of authoring tools, etc.]
+{Interpretatieve samenvatting van beoordelingsresultaten, bv. deze website {voldoet/ voldoet niet/ is dichtbij aan voldoen} aan de WCAG 2.1, op niveau A, AA of AAA.}\
+{Qua toegankelijkheid zijn sterke punten ...}\
+{Aanbevolen prioritering voor het adresseren van ontoegankelijke punten ...}\
+{Gedetailleerde resultaten, gestructureerd aan de hand van de WCAG 2.1. Neem links op naar de WCAG 2.1 succescriteria en technieken voor alle ontoegankelijke punten!}\
+{Voeg specifieke rapportage(s), of links naar rapportage(s) toe in de bijlagen, bv. de output van semi-geautomatiseerde beoordelingsinstrumenten}\
+{Geef aanbevelingen voor het adresseren van ontoegankelijke punten}
+{Beschrijf of verwijs naar een programma voor voortgaande monitoring van webstite toegankelijkheid, her-beoordeling aan de hand van beoordelingsinstrumenten etc.}
 
 ## Referenties
 
@@ -80,9 +78,11 @@ Hier een aantal referenties welke gebruikt zijn bij de beoordeling van webtoegan
 - [Tools lijst voor semi-geautomatiseerde beoordeling van webtoegankelijkheid](https://www.w3.org/WAI/ER/tools/)
 - [Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid](https://www.w3.org/WAI/eval/reviewteams)
 
+{Vul aan waar nodig, haal weg wat niet relevant is}
+
 ## Bijlagen
-Lighthouse accessibility score before improvements:
-![Lighthouse accessibility score before improvements](/assets/a11y-before.png)
+Lighthouse accessibility score voor verbeteringen:
+![Lighthouse accessibility score before improvements](./assets/a11y-before.png)
 
 [Einde van het template]
 
