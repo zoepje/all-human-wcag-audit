@@ -1,7 +1,7 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Rapportage webtoegankelijkheid-test voor {Frontend Design & Development}
-*Dit document is een format voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
+*Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een effectieve evaluatie en zorgt er voor dat verschilelnde tests kunnen worden vergeleken.*
 
 Datum webtoegankelijkheid-test: {datum}
 
