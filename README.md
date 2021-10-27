@@ -1,16 +1,17 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Rapportage beoordeling webtoegankelijkheid voor {Frontend Design & Development}
-*Dit document beschrijft een format voor het communiceren van resultaten van een evaluatie van toegankelijkheid op een website volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
+# Rapportage webtoegankelijkheid-check voor {Frontend Design & Development}
+*Dit document is een format voor een webtoegankelijkheid-check volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
 
 ![Screenshot van fdnd.nl](./assets/fdnddotnl.png)
 
-Datum van beoordelen: {27 oktober 2021}
-Beoordeeld door: {Docententeam Frontend Design & Development}
+Datum webtoegankelijkheid-check: {27 oktober 2021}
+
+Webtoegankelijkheid-check uitgevoerd door: {Docententeam Frontend Design & Development}
 
 ## Inhoudsopgave
 
-  * [Managementsamenvatting](#managementsamenvatting)
+  * [Samenvatting](#samenvatting)
   * [Achtergrond bij de evaluatie](#achtergrond-bij-de-evaluatie)
   * [Afbakening](#afbakening)
   * [Beoordelaars](#beoordelaars)
@@ -20,7 +21,7 @@ Beoordeeld door: {Docententeam Frontend Design & Development}
   * [Bijlagen](#bijlagen)
   * [Licentie](#licentie)
 
-## Managementsamenvatting
+## Samenvatting
 
 Dit rapport beschrijft in hoeverre de website {Frontend Design & Development} overeenstemt met de *Web Content Accessibility Guidelines (WCAG)* van het W3C. Na wat achtergrondinformatie en afbakening van de beoordeling worden beoordelaars en het beoordelingsproces wordt beschreven dat gebaseerd is op verschillende bronnen welke zijn beschreven in de bijlagen.
 
