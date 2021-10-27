@@ -3,7 +3,10 @@
 # Rapportage beoordeling webtoegankelijkheid voor {Frontend Design & Development}
 *Dit document beschrijft een format voor het communiceren van resultaten van een evaluatie van toegankelijkheid op een website volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
 
-{Voorblad met titel, screenshot van betreffende website, datum van evaluatie en de naam of het logo van jouw onderneming}
+![Screenshot van fdnd.nl](./assets/fdnddotnl.png)
+
+Datum van beoordelen: {27 oktober 2021}
+Beoordeeld door: {Docententeam Frontend Design & Development}
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
