@@ -14,14 +14,14 @@ Webtoegankelijkheid-test uitgevoerd door: {naamt}
   * [Afbakening](#afbakening)
   * [Beoordelaars](#beoordelaars)
   * [Beoordelingsproces](#beoordelingsproces)
-  * [Resultaten en aanbevelingen](#resultaten-en-aanbevelingen)
+  * [Testresultaten en aanbevelingen](#testresultaten-en-aanbevelingen)
   * [Referenties](#referenties)
   * [Bijlagen](#bijlagen)
   * [Licentie](#licentie)
 
 ## Samenvatting
 
-Dit rapport beschrijft in hoeverre de website {naam van de website} overeenstemt met de *Web Content Accessibility Guidelines (WCAG)* van het W3C. Na wat achtergrondinformatie en afbakening van de beoordeling worden beoordelaars en het beoordelingsproces wordt beschreven dat gebaseerd is op verschillende bronnen welke zijn beschreven in de bijlagen.
+Dit rapport beschrijft in hoeverre de website {naam van de website} overeenstemt met de *Web Content Accessibility Guidelines (WCAG)* van het W3C. Na de achtergrondinformatie en afbakening van de test worden beoordelaars, beoordelingsproces en testresulltaten beschreven. 
 
 Conslusie van deze test luidt dat de {Frontend Design & Development} website {niet voldoet/ voldoet/ dichtbij voldoen is aan} de WCAG 2.1, op niveau {A/ AA/ AAA}. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
 
@@ -69,9 +69,9 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 
 {Beschrijf hoe handmatige beoordeling is uitgevoerd, bv. usability test of toegankelijkheidstest aan de hand van A11Y Project-checklist}
 
-## Resultaten en aanbevelingen
+## Testresultaten en aanbevelingen
 
-{Samenvatting van beoordelingsresultaten, bv. deze website {voldoet/ voldoet niet/ is dichtbij aan voldoen} aan de WCAG 2.1, op niveau A, AA of AAA.}
+{Samenvatting van testresultaten, bv. deze website {voldoet/ voldoet niet/ is dichtbij aan voldoen} aan de WCAG 2.1, op niveau A, AA of AAA.}
 
 ### Sterke punten
 {Samenvatting van de de sterke punten ...}
@@ -81,7 +81,7 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 
 ### Checklist 
 
-{Beschijf de resultaten van de hele test. gebruik hiervoor de A11Y Project-Checklist}
+{Beschijf de resultaten van de hele test op basis van de A11Y Project-Checklist}
 
 ##### Content
 
