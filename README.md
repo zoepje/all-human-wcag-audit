@@ -142,16 +142,20 @@ Referenties welke gebruikt zijn bij de webtoegankelijkheid-test. Deze referentie
 
 ## Bijlagen
 
+{Geef een opsomming van bijlages, zoalslinks naar rapportages, screenshots en uitleg in de Wiki}
+
+
+/*
 ### Lighthouse check before
 ![Lighthouse check before](/assets/a11y-before.png)
 
 ### Lighthouse check after
 ![Lighthouse check after](/assets/a11y-after.png)
 
-<!--
+
 Lighthouse accessibility score voor verbeteringen:
 ![Lighthouse accessibility score before improvements](./assets/a11y-before.png)
--->
+*/
 
 [Einde van het template]
 
