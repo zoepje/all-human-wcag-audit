@@ -79,7 +79,7 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 ### Ontoegankelijke punten
 {Samenvatting van ontoegankelijke punten ...}
 
-#### Checklist 
+### Checklist 
 
 {Beschijf de resultaten van de hele test. gebruik hiervoor de A11Y Project-Checklist}
 
