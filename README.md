@@ -83,22 +83,37 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 
 {Beschijf de resultaten van de hele test. gebruik hiervoor de A11Y Project-Checklist}
 
-- Content
-- Global code
-- Keyboard
-- Images
-- Headings
-- Lists
-- Controls
-- Tables
-- Forms
-- Media
-- Video
-- Audio
-- Appearance
-- Animation
-- Color contrast
-- Mobile and touch
+##### Content
+
+##### Global code
+
+##### Keyboard
+
+##### Images
+
+##### Headings
+
+##### Lists
+
+##### Controls
+
+##### Tables
+
+##### Forms
+
+##### Media
+
+##### Video
+
+##### Audio
+
+##### Appearance
+
+##### Animation
+
+##### Color contrast
+
+##### Mobile and touch
 
 {Schrijf per check wat er uit de test is gekomen}
 
