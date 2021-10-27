@@ -1,11 +1,11 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Rapportage webtoegankelijkheid-check voor {Frontend Design & Development}
-*Dit document is een format voor een webtoegankelijkheid-check volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
+# Rapportage webtoegankelijkheid-test voor {Frontend Design & Development}
+*Dit document is een format voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
 
-Datum webtoegankelijkheid-check: {27 oktober 2021}
+Datum webtoegankelijkheid-test: {27 oktober 2021}
 
-Webtoegankelijkheid-check uitgevoerd door: {Docententeam Frontend Design & Development}
+Webtoegankelijkheid-test uitgevoerd door: {Docententeam Frontend Design & Development}
 
 ## Inhoudsopgave
 
@@ -23,11 +23,11 @@ Webtoegankelijkheid-check uitgevoerd door: {Docententeam Frontend Design & Devel
 
 Dit rapport beschrijft in hoeverre de website {Frontend Design & Development} overeenstemt met de *Web Content Accessibility Guidelines (WCAG)* van het W3C. Na wat achtergrondinformatie en afbakening van de beoordeling worden beoordelaars en het beoordelingsproces wordt beschreven dat gebaseerd is op verschillende bronnen welke zijn beschreven in de bijlagen.
 
-Conslusie van deze evaluatie luidt dat de {Frontend Design & Development} website {niet voldoet/ voldoet/ dichtbij voldoen is aan} de WCAG 2.1, op niveau {A/ AA/ AAA}. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
+Conslusie van deze test luidt dat de {Frontend Design & Development} website {niet voldoet/ voldoet/ dichtbij voldoen is aan} de WCAG 2.1, op niveau {A/ AA/ AAA}. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
 
 ## Achtergrond bij de evaluatie
 
-De beoordeling van webtoegankelijkheid vereist een combinatie van semi-geautomatiseerde en handmatig uitgevoerde evaluatie tools door een ervaren beoordelaar. De beoordelingsresultaten in dit rapport zijn gebaseerd op een beoordeling welke is uitgevoerd op {27 oktober 2021}. De website kan ondertussen aangepast zijn.
+De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en handmatig uitgevoerde evaluatie tools door een ervaren beoordelaar. De beoordelingsresultaten in dit rapport zijn gebaseerd op een beoordeling welke is uitgevoerd op {27 oktober 2021}. De website kan ondertussen aangepast zijn.
 
 ## Afbakening
 
@@ -67,27 +67,53 @@ De beoordeling van webtoegankelijkheid vereist een combinatie van semi-geautomat
 
 {Benoem de beoordelings- en evaluatietools en versies van de tools die gebruikt zijn}
 
-{Beschrijf hoe handmatige beoordeling is uitgevoerd, bv. usability test of toegankelijkheidstest aan de hand van a11y-checklist}
+{Beschrijf hoe handmatige beoordeling is uitgevoerd, bv. usability test of toegankelijkheidstest aan de hand van A11Y Project-checklist}
 
 ## Resultaten en aanbevelingen
 
 {Samenvatting van beoordelingsresultaten, bv. deze website {voldoet/ voldoet niet/ is dichtbij aan voldoen} aan de WCAG 2.1, op niveau A, AA of AAA.}
 
-{Qua toegankelijkheid zijn sterke punten ...}
+### Sterke punten
+{Samenvatting van de de sterke punten ...}
 
-{Aanbevolen prioritering voor het adresseren van ontoegankelijke punten ...}
+### Ontoegankelijke punten
+{Samenvatting van ontoegankelijke punten ...}
 
-{Gedetailleerde resultaten, gestructureerd aan de hand van de WCAG 2.1. Neem links op naar de WCAG 2.1 succescriteria en technieken voor alle ontoegankelijke punten!}
+#### Checklist 
 
-{Voeg specifieke rapportage(s), of links naar rapportage(s) toe in de bijlagen, bv. de output van semi-geautomatiseerde beoordelingsinstrumenten}\
+{Beschijf de resultaten van de hele test. gebruik hiervoor de A11Y Project-Checklist}
 
-{Geef aanbevelingen voor het adresseren van ontoegankelijke punten}
+- Content
+- Global code
+- Keyboard
+- Images
+- Headings
+- Lists
+- Controls
+- Tables
+- Forms
+- Media
+- Video
+- Audio
+- Appearance
+- Animation
+- Color contrast
+- Mobile and touch
 
-{Beschrijf of verwijs naar een programma voor voortgaande monitoring van webstite toegankelijkheid, her-beoordeling aan de hand van beoordelingsinstrumenten etc.}
+{Schrijf per check wat er uit de test is gekomen}
+
+{Neem links op naar de WCAG 2.1 succescriteria en technieken voor de ontoegankelijke punten}
+
+{Voeg per check specifieke rapportage(s), of links naar rapportage(s) toe in de Wiki, bv. screenshots van tests}
+
+{Schrijf per check aanbevelingen voor het verbeteren van ontoegankelijke punten}
+
+{Beschrijf of verwijs per check naar een programma voor het monitoren van webstite toegankelijkheid, her-beoordeling aan de hand van beoordelingsinstrumenten etc.}
+
 
 ## Referenties
 
-Hier een aantal referenties welke gebruikt zijn bij de beoordeling van webtoegankelijkheid. Deze referenties zijn allen in het Engels:
+Referenties welke gebruikt zijn bij de webtoegankelijkheid-test. Deze referenties zijn allen in het Engels:
 
 - [Overzicht en introductie van de Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/intro/wcag)
 - [De complete Web Content Accessibility Guidelines 2.1 (WCAG)](https://www.w3.org/TR/WCAG21/)
@@ -95,12 +121,13 @@ Hier een aantal referenties welke gebruikt zijn bij de beoordeling van webtoegan
 - [Bronnen voor beoordeling van webtoegankelijkheidsevaluatie ](http://www.w3.org/WAI/eval/)
 - [Tools lijst voor semi-geautomatiseerde beoordeling van webtoegankelijkheid](https://www.w3.org/WAI/ER/tools/)
 - [Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid](https://www.w3.org/WAI/eval/reviewteams)
+- [A11Y Project Checklist](https://www.a11yproject.com/checklist/)
 
 {Vul aan waar nodig, haal weg wat niet relevant is}
 
 ## Bijlagen
 
-Verwijzen naar bijlagen, screenshots en testuitslagen in de wiki.
+Verwijzen naar bijlagen, screenshots en testuitslagen in de Wiki.
 
 <!--
 Lighthouse accessibility score voor verbeteringen:
