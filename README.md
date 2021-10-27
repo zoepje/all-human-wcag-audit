@@ -8,10 +8,6 @@
 Datum van beoordelen: {27 oktober 2021}
 Beoordeeld door: {Docententeam Frontend Design & Development}
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
 ## Inhoudsopgave
 
   * [Managementsamenvatting](#managementsamenvatting)
