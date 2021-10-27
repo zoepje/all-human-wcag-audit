@@ -3,9 +3,9 @@
 # Rapportage webtoegankelijkheid-test voor {Frontend Design & Development}
 *Dit document is een format voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
 
-Datum webtoegankelijkheid-test: {27 oktober 2021}
+Datum webtoegankelijkheid-test: {datum}
 
-Webtoegankelijkheid-test uitgevoerd door: {Docententeam Frontend Design & Development}
+Webtoegankelijkheid-test uitgevoerd door: {naamt}
 
 ## Inhoudsopgave
 
@@ -21,13 +21,13 @@ Webtoegankelijkheid-test uitgevoerd door: {Docententeam Frontend Design & Develo
 
 ## Samenvatting
 
-Dit rapport beschrijft in hoeverre de website {Frontend Design & Development} overeenstemt met de *Web Content Accessibility Guidelines (WCAG)* van het W3C. Na wat achtergrondinformatie en afbakening van de beoordeling worden beoordelaars en het beoordelingsproces wordt beschreven dat gebaseerd is op verschillende bronnen welke zijn beschreven in de bijlagen.
+Dit rapport beschrijft in hoeverre de website {naam van de website} overeenstemt met de *Web Content Accessibility Guidelines (WCAG)* van het W3C. Na wat achtergrondinformatie en afbakening van de beoordeling worden beoordelaars en het beoordelingsproces wordt beschreven dat gebaseerd is op verschillende bronnen welke zijn beschreven in de bijlagen.
 
 Conslusie van deze test luidt dat de {Frontend Design & Development} website {niet voldoet/ voldoet/ dichtbij voldoen is aan} de WCAG 2.1, op niveau {A/ AA/ AAA}. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
 
 ## Achtergrond bij de evaluatie
 
-De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en handmatig uitgevoerde evaluatie tools door een ervaren beoordelaar. De beoordelingsresultaten in dit rapport zijn gebaseerd op een beoordeling welke is uitgevoerd op {27 oktober 2021}. De website kan ondertussen aangepast zijn.
+De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en handmatig uitgevoerde evaluatie tools door een ervaren beoordelaar. De beoordelingsresultaten in dit rapport zijn gebaseerd op een beoordeling welke is uitgevoerd op {datum}. De website kan ondertussen aangepast zijn.
 
 ## Afbakening
 
