@@ -51,11 +51,11 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 
 ## Beoordelaars
 
-{Naam van de beoordelaar of het beoordelingsteam, tenzij anoniem}
+{Naam van de beoordelaar of het beoordelingsteam}
 
-{Organisatie waar de beoordelaars mee geaffilieerd zijn, wanneer relevant en als niet anoniem}
+{Organisatie van de beoordelaars}
 
-{Contactinformatie van de beoordelaar(s), tenzij anoniem}
+{Contactinformatie van de beoordelaar(s)}
 
 {Expertisegebied van de beoordelaars op basis van naamgeving in de referentie: “Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid”}
 
