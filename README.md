@@ -3,8 +3,6 @@
 # Rapportage webtoegankelijkheid-check voor {Frontend Design & Development}
 *Dit document is een format voor een webtoegankelijkheid-check volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportageformat helpt bij het uitvoeren van effectieve evaluaties en schept de mogelijkheid voor accurate vergelijking van toegankelijkheid over tijd en tussen verschillende websites.*
 
-![Screenshot van fdnd.nl](./assets/fdnddotnl.png)
-
 Datum webtoegankelijkheid-check: {27 oktober 2021}
 
 Webtoegankelijkheid-check uitgevoerd door: {Docententeam Frontend Design & Development}
@@ -33,38 +31,58 @@ De beoordeling van webtoegankelijkheid vereist een combinatie van semi-geautomat
 
 ## Afbakening
 
-{Naam van de website}\
-{en doel van de website, wanneer relevant}\
-{Base URL van de website}\
-{Lijst met URLs die in de beoordeling meegenomen zijn}\
-{Als de website dynamisch is, screenshots van hetgeen beoordeeld is}\
-{Indicatie van pagina’s die handmatig beoordeeld zijn ten opzichte van semi-geautomatiseerde tools}\
-{URLs die niet beoordeeld zijn}\
-{Exacte datum, of reeks van data waarop beoordeling heeft plaatsgevonden}\
+{Naam van de website}
+
+{en doel van de website, wanneer relevant}
+
+{Base URL van de website}
+
+{Lijst met URLs die in de beoordeling meegenomen zijn}
+
+{Als de website dynamisch is, screenshots van hetgeen beoordeeld is}
+
+{Indicatie van pagina’s die handmatig beoordeeld zijn ten opzichte van semi-geautomatiseerde tools}
+
+{URLs die niet beoordeeld zijn}
+
+{Exacte datum, of reeks van data waarop beoordeling heeft plaatsgevonden}
+
 {Natuurlijke taal/talen van de website}
 
 ## Beoordelaars
 
-{Naam van de beoordelaar of het beoordelingsteam, tenzij anoniem}\
-{Organisatie waar de beoordelaars mee geaffilieerd zijn, wanneer relevant en als niet anoniem}\
-{Contactinformatie van de beoordelaar(s), tenzij anoniem}\
-{Expertisegebied van de beoordelaars op basis van naamgeving in de referentie: “Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid”}\
+{Naam van de beoordelaar of het beoordelingsteam, tenzij anoniem}
+
+{Organisatie waar de beoordelaars mee geaffilieerd zijn, wanneer relevant en als niet anoniem}
+
+{Contactinformatie van de beoordelaar(s), tenzij anoniem}
+
+{Expertisegebied van de beoordelaars op basis van naamgeving in de referentie: “Informatie over het gebruik van gecombineerde expertise voor het evalueren van webtoegankelijkheid”}
+
 {Niveau van natuurlijke taal/talen waarin de beoordelaar(s) communiceert/communiceren}
 
 ## Beoordelingsproces
 
-{Benoem het WCAG 2.1 niveau waarvoor de beoordeling is uitgevoerd, bv. WCAG 2.1 Niveau A, AA of AAA}\
-{Benoem de beoordelings- en evaluatietools en versies van de tools die gebruikt zijn}\
+{Benoem het WCAG 2.1 niveau waarvoor de beoordeling is uitgevoerd, bv. WCAG 2.1 Niveau A, AA of AAA}
+
+{Benoem de beoordelings- en evaluatietools en versies van de tools die gebruikt zijn}
+
 {Beschrijf hoe handmatige beoordeling is uitgevoerd, bv. usability test of toegankelijkheidstest aan de hand van a11y-checklist}
 
 ## Resultaten en aanbevelingen
 
-{Interpretatieve samenvatting van beoordelingsresultaten, bv. deze website {voldoet/ voldoet niet/ is dichtbij aan voldoen} aan de WCAG 2.1, op niveau A, AA of AAA.}\
-{Qua toegankelijkheid zijn sterke punten ...}\
-{Aanbevolen prioritering voor het adresseren van ontoegankelijke punten ...}\
-{Gedetailleerde resultaten, gestructureerd aan de hand van de WCAG 2.1. Neem links op naar de WCAG 2.1 succescriteria en technieken voor alle ontoegankelijke punten!}\
+{Samenvatting van beoordelingsresultaten, bv. deze website {voldoet/ voldoet niet/ is dichtbij aan voldoen} aan de WCAG 2.1, op niveau A, AA of AAA.}
+
+{Qua toegankelijkheid zijn sterke punten ...}
+
+{Aanbevolen prioritering voor het adresseren van ontoegankelijke punten ...}
+
+{Gedetailleerde resultaten, gestructureerd aan de hand van de WCAG 2.1. Neem links op naar de WCAG 2.1 succescriteria en technieken voor alle ontoegankelijke punten!}
+
 {Voeg specifieke rapportage(s), of links naar rapportage(s) toe in de bijlagen, bv. de output van semi-geautomatiseerde beoordelingsinstrumenten}\
+
 {Geef aanbevelingen voor het adresseren van ontoegankelijke punten}
+
 {Beschrijf of verwijs naar een programma voor voortgaande monitoring van webstite toegankelijkheid, her-beoordeling aan de hand van beoordelingsinstrumenten etc.}
 
 ## Referenties
@@ -81,8 +99,13 @@ Hier een aantal referenties welke gebruikt zijn bij de beoordeling van webtoegan
 {Vul aan waar nodig, haal weg wat niet relevant is}
 
 ## Bijlagen
+
+Verwijzen naar bijlagen, screenshots en testuitslagen in de wiki.
+
+<!--
 Lighthouse accessibility score voor verbeteringen:
 ![Lighthouse accessibility score before improvements](./assets/a11y-before.png)
+-->
 
 [Einde van het template]
 
