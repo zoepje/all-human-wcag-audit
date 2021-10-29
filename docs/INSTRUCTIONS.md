@@ -50,7 +50,7 @@ Test in hoeverre het mogelijk is om met alleen een toetsenbord door de website t
 
 #### Materiaal Keyboard navigatie
 
- - [A11yproject Controls: Headings ](https://www.a11yproject.com/checklist/#controls)
+ - [A11yproject Controls: Controls ](https://www.a11yproject.com/checklist/#controls)
  - [The no mouse challlenge](https://uxdesign.cc/taking-the-keyboard-navigation-red-pill-dbb76dd73b1e)
 
 </details>
