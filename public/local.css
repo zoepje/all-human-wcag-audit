@@ -2,12 +2,24 @@ body > header p {
     line-height:1.5
 }
 
-body > nav a:focus {
-    background:none !important;
-    color:inherit !important;
+body > header button {
+    padding:.25rem .5rem;
+    font-size: inherit;
+    margin:.5rem;
+    border-radius:var(--pilled);
+    border:2px solid var(--lavender);
+    background: var(--lavender);
+    color: var(--blueberry);
+}
+body > header button:hover {
+    background-color: transparent;
 }
 
-footer nav > div a {
-    display:inline-block;
-    margin-right:.5rem;
+body > nav  {
+    transform:translateY(-10%);
+    transition:.5s
 }
+body > nav.open {
+    transform:translateX(0)
+}
+
