@@ -125,6 +125,9 @@ De webtoegankelijkheid-test vereist een combinatie van semi-geautomatiseerde en 
 
 {Beschrijf of verwijs per check naar een programma voor het monitoren van webstite toegankelijkheid, her-beoordeling aan de hand van beoordelingsinstrumenten etc.}
 
+### Resultaten Usability test
+
+{Beschrijf per pagina de bevindingen uit jouw usability test in het lab.}
 
 ## Referenties
 
