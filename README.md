@@ -3,6 +3,13 @@
 
 # All Human - WCAG Audit 
 
+
+## Website
+
+Welke website heb je getest? Beschrijf die hier en upload een screenshot. 
+
+En zet er een screenshot bij van de Lighthouse Accessibility test resultaast en een samenvatting van de bevindingen
+
 <!--
 # Rapportage webtoegankelijkheid-test voor {naam van de website}
 *Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschilelnde tests kunnen worden vergeleken.*
