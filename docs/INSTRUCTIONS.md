@@ -91,7 +91,7 @@ Deze deeltaak hoort bij het gedragscriterium:
 
 Deze opdracht is done als:
 
-- [ ] je hebt een Lighthouse test gedaan op een ebstaande website en de test is gedocumenteerd in de Wiki van deze deeltaak
+- [ ] Je hebt een Lighthouse test gedaan op een bestaande website en de test is gedocumenteerd in de Wiki van deze deeltaak
 - [ ] Je hebt een een serie handmatige tests gedaan en gedocumenteerd in de wiki
 
 
