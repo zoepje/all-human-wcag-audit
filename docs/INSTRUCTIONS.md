@@ -31,8 +31,8 @@ Een goede toegankelijke website voldoet aan de _[Web Content Accessibility Guide
 
 Voor het testen van toegankelijkheid kun je een website automatisch testen in de browser met bijvoorbeeld de tool _Lighthouse_. Voor deze opdracht ga je zo'n test uitvoeren en documenteer je wat je hebt getest.
 
-1. Eerst ga je een [Lighthouse test](#1-lighthouse-audit) doen van een bestaande website en je documenteer de belangrijkste bevindingen uit de test in je Wiki
-2. Daarna ga je [handmatige](#2-handmatige-tests) dezelfde website verder testen en je documenteer de belangrijkste bevindingen van de tests.
+1. Eerst ga je een [Lighthouse test](#1-lighthouse-audit) doen van een bestaande website en documenteer je de belangrijkste bevindingen uit de test in je Wiki
+2. Daarna ga je [met de hand](#2-handmatige-tests) dezelfde website verder testen en documenteer je de bevindingen van de tests.
 
 
 ### 1. Lighthouse Audit
