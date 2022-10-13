@@ -13,7 +13,7 @@ In het college S03W1-01-WCAG-Compliance-checks wordt behandeld hoe je een WCAG t
  
 ## Doel van deze opdracht
 
-Je leert hoe je een web content accessibility guidelines (WCAG) kan uitvoeren en je presenteert je bevindingen.
+Je leert hoe je een teogankelijkheids test kan uitvoeren en je presenteert je bevindingen.
 
 
 ## Werkwijze
