@@ -29,7 +29,7 @@ Stel je voor dat de gebruiker van jouw website niet kan zien, of geen kleuren zi
 
 Een goede toegankelike website voldoet aan de _[Web Content Accessibility Guidelines]((https://www.w3.org/TR/WCAG21/)_ van het W3C. [The A11Y Project](https://www.a11yproject.com) is een goede plek om te lezen over toegankelijkheid, daar staat ook een [checlist](https://www.a11yproject.com/checklist/) waar een website aan moet voldoen. 
 
-Voor het testen van toegankelijkheid kun je een website testen in de browser met bijvoorbeeld de tool _Lighthouse_. Voor deze opdracht ga je zo'n test uitvoeren en schrijf je een toegenkelijkhheidsrapport.
+Voor het testen van toegankelijkheid kun je een website testen in de browser met bijvoorbeeld de tool _Lighthouse_. Voor deze opdracht ga je zo'n test uitvoeren en schrijf je een toegankelijkheidsrapport.
 
 
 ### Lighthouse audit vóór verbeteringen
