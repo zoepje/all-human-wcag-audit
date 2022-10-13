@@ -8,7 +8,10 @@
 
 Welke website heb je getest? Beschrijf die hier en upload een screenshot. 
 
-En zet er een screenshot bij van de Lighthouse Accessibility test resultaast en een samenvatting van de bevindingen
+Toon een screenshot van het Lighthouse Accessibility test resultaat.
+
+Schrijf een een samenvatting van de test bevindingen.
+
 
 <!--
 # Rapportage webtoegankelijkheid-test voor {naam van de website}
