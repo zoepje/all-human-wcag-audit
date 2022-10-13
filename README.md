@@ -6,7 +6,7 @@
 
 ## Website
 
-Welke website heb je getest? Beschrijf die hier en upload een screenshot. 
+Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
 Toon een screenshot van het Lighthouse Accessibility test resultaat.
 
