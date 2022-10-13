@@ -31,73 +31,57 @@ Een goede toegankelijke website voldoet aan de _[Web Content Accessibility Guide
 
 Voor het testen van toegankelijkheid kun je een website testen in de browser met bijvoorbeeld de tool _Lighthouse_. Voor deze opdracht ga je zo'n test uitvoeren en schrijf je een toegankelijkheidsrapport.
 
+1. Eerst ga je een [Lighthouse test](#1-lighthouse-test) doen van een bestaande website en je documenteer de belangrijkste bevindingen uit de test in je Wiki
+2. Daarna ga je [handmatige](#2-handmatige-tests) dezelfde website verder testen en documenteer je tests.
 
-### Lighthouse audit vóór verbeteringen
+
+### 1.Lighthouse Audit
+
+Lighthouse is een geautomatiserde test die je in een Chrome browser kan uitvoeren. In de Devtools kun je de Lighthouse gebruiken. Je begint de toegankelijkheidstest met een Lighthouse Audit.  
 
 #### Aanpak
 
-Doe een lighthouse audit voor toegankelijkheid en maak een screenshot van de score. Zet het screenshot in de readme.
+- Ga naar een bestaande website
+- Open de Devtools en klik naar Lighthouse
+- Selecteer alleen _Accessibility_ en zorg dat _Clear storage_ aan staat en de _Throttling_ op _default_. 
 
-#### Materiaal Lighthouse
+
+- Run de test en maak een screenshot van de score en zet deze in de Wiki
+- Bekijk het Lighthouse rapport en documenteer de problemen en de goede uitkomsten van de test in de Wiki. Schrijf bij elke onderdeel in je eigen woorden wat het betekent. Schrijf bij de problemen hoe je dit in code zou kunnen oplossen.
+
+
+#### Materiaal Lighthouse Audit
 
  - [Test accessibility with Chrome DevTools](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
+ - [Lighthouse documentation](https://developer.chrome.com/docs/lighthouse/accessibility/)
 
 
+### 2.Handmatige tests
 
-### Keyboard navigatie
-
-Test in hoeverre het mogelijk is om met alleen een toetsenbord door de website te navigeren
-
-#### Aanpak
-
- 1. Navigeer door de website met je toetsenbord. Controleer of interactieve elementen een goede focus state hebben en een logische volgorde
- 2. Maak issues aan waar nodig en los de issues op in code
-
-#### Materiaal Keyboard navigatie
-
- - [A11yproject Controls: Controls ](https://www.a11yproject.com/checklist/#controls)
- - [The no mouse challlenge](https://uxdesign.cc/taking-the-keyboard-navigation-red-pill-dbb76dd73b1e)
-
-
-
-### Screenreader
-
-Test met een screenreader of de website goed te gebruiken is als je de website niet kan zien
+Lighthouse is een geautomatiserde test die een heel aantal veel voorkomende toegankelijkheidsproblemen kan testen. Echter, een geautomatiseerde test is nooit voldoende om een website goed op toegenkelijkheid te testen. Hiervoor moet je altijd nog een aantal handmatige tests uitvoeren en beoordelen. In het Lighthouse rapport staan een aantal handmatige checks genoemd, maar ook op de website van The A11Y Project staat een checklist. Deze gaan we gebruiken om de bestaande website mee te testen.
 
 #### Aanpak
 
- 1. Navigeer met een screenreader door de website. Test of het je lukt om snel door de heading structuur en landmarks te navigeren
- 2. Check of content images een alternatieve tekst hebben
- 3. Check of interactieve elementen een betekenisvolle tekst hebben die duidleijk maken waar naartoe genavigeerd kan worden
- 4. Maak issues aan waar nodig en los de issues op in code
+- Lees de handmatige checks die in het Lighthouse rapport worden genoemd
+- Vergelijk de lijst met de checlist van de A11Y Project checklist. Je zult dan zien dat hier (ongeveer) dezelfde checks staan maar dan anders georganiseerd
+- Begin met het testen van de website met je keyboard zoals beschreven in het artikel "How To Do an Accessibility Review - Start with the keyboard"
+- Test de website daarna met een Screenreader, zoals beschreven in het artikel "How To Do an Accessibility Review - Try it with a screen reader"
+- Test daarna de _interactive elements_ en _headings and landmarks_, zoals beschreven in het artikel "How To Do an Accessibility Review"
+- Documenteer je bevindingen in de Wiki
+
+#### Materiaal handmatige tests
+
+- [How To Do an Accessibility Review](https://web.dev/how-to-review/)
+- [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
 
 #### Materiaal Screenreader
  - [VoiceOver een Mac OS screenreader](https://webaim.org/articles/voiceover/)
  - [JAWS on Windows](https://downloads.sensotec.be/Jaws/Sneltoetsen-JAWS2018.pdf)
- - [A11yproject Checklist: Global code ](https://www.a11yproject.com/checklist/#https://www.a11yproject.com/checklist/#global-code)
- - [A11yproject Checklist: Headings ](https://www.a11yproject.com/checklist/#headings)
- - [A11yproject Checklist: Controls ](https://www.a11yproject.com/checklist/#controls)
- - [A11yproject Checklist: Images ](https://www.a11yproject.com/checklist/#images)
-
-
-
-### Lighthouse audit na verbeteringen
-
-
-#### Aanpak
-
- 1. Doe opnieuw een lighthouse audit voor toegankelijkheid
- 2. Maak een screenshot van de score en zet deze onder het eerste screenshot
-
-#### Materiaal Lighthouse
-
- - [Test accessibility with Chrome DevTools](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
- 
 
 
 ## Criteria
 
-Focus sprint 3: All HHuman - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp.
+Focus sprint 3: All Human - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp.
 
 Deze deeltaak hoort bij het gedragscriterium:
 
@@ -105,7 +89,7 @@ Deze deeltaak hoort bij het gedragscriterium:
 
 Deze opdracht is done als:
 
-- [ ] je hebt de test gedaan
-- [ ] Je hebt de test gedocumenteerd in de wiki
+- [ ] je hebt een Lighthouse test gedaan op een ebstaande website en de test is gedocumenteerd in de Wiki van deze deeltaak
+- [ ] Je hebt een een serie handmatige tests gedaan en gedocumenteerd in de wiki
 
 
