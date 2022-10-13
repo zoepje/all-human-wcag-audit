@@ -32,10 +32,9 @@ Een goede toegankelike website voldoet aan de _[Web Content Accessibility Guidel
 Voor het testen van toegankelijkheid kun je een website testen in de browser met bijvoorbeeld de tool _Lighthouse_. Voor deze opdracht ga je zo'n test uitvoeren en schrijf je een toegenkelijkhheidsrapport.
 
 
-#### Lighthouse audit vóór verbeteringen
+### Lighthouse audit vóór verbeteringen
 
-<details>
-<summary>Aanpak</summary>
+#### Aanpak
 
 Doe een lighthouse audit voor toegankelijkheid en maak een screenshot van de score. Zet het screenshot in de readme.
 
@@ -44,14 +43,12 @@ Doe een lighthouse audit voor toegankelijkheid en maak een screenshot van de sco
  - [Test accessibility with Chrome DevTools](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
 
 
-</details>
 
-#### Keyboard navigatie
+### Keyboard navigatie
 
 Test in hoeverre het mogelijk is om met alleen een toetsenbord door de website te navigeren
 
-<details>
-<summary>Aanpak</summary>
+#### Aanpak
 
  1. Navigeer door de website met je toetsenbord. Controleer of interactieve elementen een goede focus state hebben en een logische volgorde
  2. Maak issues aan waar nodig en los de issues op in code
@@ -61,14 +58,13 @@ Test in hoeverre het mogelijk is om met alleen een toetsenbord door de website t
  - [A11yproject Controls: Controls ](https://www.a11yproject.com/checklist/#controls)
  - [The no mouse challlenge](https://uxdesign.cc/taking-the-keyboard-navigation-red-pill-dbb76dd73b1e)
 
-</details>
 
-#### Screenreader
+
+### Screenreader
 
 Test met een screenreader of de website goed te gebruiken is als je de website niet kan zien
 
-<details>
-<summary>Aanpak</summary>
+#### Aanpak
 
  1. Navigeer met een screenreader door de website. Test of het je lukt om snel door de heading structuur en landmarks te navigeren
  2. Check of content images een alternatieve tekst hebben
@@ -83,12 +79,12 @@ Test met een screenreader of de website goed te gebruiken is als je de website n
  - [A11yproject Checklist: Controls ](https://www.a11yproject.com/checklist/#controls)
  - [A11yproject Checklist: Images ](https://www.a11yproject.com/checklist/#images)
 
-</details>
 
-#### Lighthouse audit na verbeteringen
 
-<details>
-<summary>Aanpak</summary>
+### Lighthouse audit na verbeteringen
+
+
+#### Aanpak
 
  1. Doe opnieuw een lighthouse audit voor toegankelijkheid
  2. Maak een screenshot van de score en zet deze onder het eerste screenshot
@@ -98,4 +94,18 @@ Test met een screenreader of de website goed te gebruiken is als je de website n
  - [Test accessibility with Chrome DevTools](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
  
 
-</details>
+
+## Criteria
+
+Focus sprint 3: All HHuman - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp.
+
+Deze deeltaak hoort bij het gedragscriterium:
+
+- Methodisch handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe
+
+Deze opdracht is done als:
+
+- [ ] je hebt de test gedaan
+- [ ] Je hebt de test gedocumenteerd in de wiki
+
+
