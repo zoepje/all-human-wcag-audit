@@ -58,7 +58,7 @@ Lighthouse is een geautomatiserde test die je in een Chrome browser kan uitvoere
 
 ### 2.Handmatige tests
 
-Lighthouse is een geautomatiserde test die een heel aantal veel voorkomende toegankelijkheidsproblemen kan testen. Echter, een geautomatiseerde test is nooit voldoende om een website goed op toegenkelijkheid te testen. Hiervoor moet je altijd nog een aantal handmatige tests uitvoeren en beoordelen. In het Lighthouse rapport staan een aantal handmatige checks genoemd, maar ook op de website van The A11Y Project staat een checklist. Deze gaan we gebruiken om de bestaande website mee te testen.
+Lighthouse is een geautomatiserde test die een aantal veel voorkomende toegankelijkheidsproblemen kan testen. Echter, een geautomatiseerde test is nooit voldoende om een website goed op toegenkelijkheid te testen. Hiervoor moet je nog een aantal handmatige tests uitvoeren en beoordelen. In het Lighthouse rapport staan een aantal handmatige checks genoemd, maar ook op de website van The A11Y Project staat een checklist. Deze gaan we gebruiken om de bestaande website mee te testen.
 
 #### Aanpak
 
