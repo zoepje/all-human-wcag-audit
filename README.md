@@ -3,6 +3,7 @@
 
 # All Human - WCAG Audit 
 
+Doe een WCAG test op een bestaande website en rapporteer daar over.
 
 ## Website
 
