@@ -21,8 +21,7 @@ Deze opdracht gaat over [testen](#testen) van de DLC.
 
 
 ### Testen
-
-*In de testfase test je of een website goed werkt.*
+<!-- *In de testfase test je of een website goed werkt.* -->
 
 Het is de verantwoordelijkheid van een frontender dat een website voor verschillende mensen, met verschillende apparaten, in verschillende situaties toegankelijk is. Met goede code en een goed design kun je ervoor zorgen dat mensen met een (tijdelijke) beperking een website ook op een prettige manier kunnen bedienen. 
 
