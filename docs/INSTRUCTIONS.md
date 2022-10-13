@@ -45,8 +45,11 @@ Lighthouse is een geautomatiserde test die je in een Chrome browser kan uitvoere
 - Open de Devtools en klik naar Lighthouse
 - Selecteer alleen _Accessibility_ en zorg dat _Clear storage_ aan staat en de _Throttling_ op _default_. 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/1391509/195625978-c079cbb8-35d0-4bf3-a381-7a74aa24ebb3.png">
+
 - Run de test en maak een screenshot van de score en zet deze in de Wiki
-- Bekijk het Lighthouse rapport en documenteer de problemen en de goede uitkomsten van de test in de Wiki. Schrijf bij elke onderdeel in je eigen woorden wat het betekent. Schrijf bij de problemen hoe je dit in code zou kunnen oplossen.
+- Bekijk het Lighthouse rapport en documenteer de problemen en de goede uitkomsten van de test in de Wiki. 
+- Schrijf bij elke onderdeel in je eigen woorden wat het betekent. 
+- Schrijf bij de problemen hoe je dit in code zou kunnen oplossen.
 
 
 #### Materiaal Lighthouse Audit
