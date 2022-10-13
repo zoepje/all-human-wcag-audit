@@ -35,7 +35,7 @@ Voor het testen van toegankelijkheid kun je een website automatisch testen in de
 2. Daarna ga je [handmatige](#2-handmatige-tests) dezelfde website verder testen en je documenteer de belangrijkste bevindingen van de tests.
 
 
-### 1.Lighthouse Audit
+### 1. Lighthouse Audit
 
 Lighthouse is een geautomatiserde test die je in een Chrome browser kan uitvoeren. In de Devtools kun je de Lighthouse gebruiken. Je begint de toegankelijkheidstest met een Lighthouse Audit.  
 
@@ -58,7 +58,7 @@ Lighthouse is een geautomatiserde test die je in een Chrome browser kan uitvoere
  - [Lighthouse documentation](https://developer.chrome.com/docs/lighthouse/accessibility/)
 
 
-### 2.Handmatige tests
+### 2. Handmatige tests
 
 Lighthouse is een geautomatiserde test die een aantal veel voorkomende toegankelijkheidsproblemen kan testen. Echter, een geautomatiseerde test is nooit voldoende om een website goed op toegenkelijkheid te testen. Hiervoor moet je nog een aantal handmatige tests uitvoeren en beoordelen. In het Lighthouse rapport staan een aantal handmatige checks genoemd, maar ook op de website van The A11Y Project staat een checklist. Deze gaan we gebruiken om de bestaande website mee te testen.
 
