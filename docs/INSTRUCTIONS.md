@@ -25,7 +25,7 @@ Deze opdracht gaat over [testen](#testen) van de DLC.
 
 Het is de verantwoordelijkheid van een frontender dat een website voor verschillende mensen, met verschillende apparaten, in verschillende situaties toegankelijk is. Met goede code en een goed design kun je ervoor zorgen dat mensen met een (tijdelijke) beperking een website ook op een prettige manier kunnen bedienen. 
 
-Stel je voor dat de gebruiker van jouw website niet kan zien, of geen kleuren ziet, of een website bedient met alleen het toetsenbord of spastisch is. Of een arm in het gips heeft. Of ... 
+Stel je voor dat de gebruiker van jouw website niet kan zien, of kleurenblind is, of een website bedient met alleen het toetsenbord, of spastisch is, of een arm in het gips heeft. Of ... 
 
 Een goede toegankelijke website voldoet aan de _[Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)_ van het W3C. [The A11Y Project](https://www.a11yproject.com) is een goede plek om te lezen over toegankelijkheid, daar staat ook een [checlist](https://www.a11yproject.com/checklist/) waar een website aan moet voldoen. 
 
