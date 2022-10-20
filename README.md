@@ -5,7 +5,7 @@
 
 Doe een WCAG test op een bestaande website en rapporteer daar over.
 
-## Website
+## Titel Website
 
 Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
