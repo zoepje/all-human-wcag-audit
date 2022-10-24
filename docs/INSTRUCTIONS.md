@@ -65,7 +65,7 @@ Lighthouse is een geautomatiserde test die veel voorkomende toegankelijkheidspro
 #### Aanpak
 
 - Lees de handmatige checks die in het Lighthouse rapport worden genoemd
-- Vergelijk de lijst met de checlist van de A11Y Project checklist. Je zult dan zien dat hier (ongeveer) dezelfde checks staan maar dan anders georganiseerd
+- Vergelijk de lijst met de checklist van de A11Y Project checklist. Je zult dan zien dat hier (ongeveer) dezelfde checks staan maar dan anders georganiseerd
 - Begin met het testen van de website met je _keyboard_, zoals beschreven in het artikel "How To Do an Accessibility Review - Start with the keyboard"
 - Test de website met een _screenreader_, zoals beschreven in het artikel "How To Do an Accessibility Review - Try it with a screen reader"
 - Test de _interactive elements_ en _headings and landmarks_ van de website, zoals beschreven in het artikel "How To Do an Accessibility Review"
