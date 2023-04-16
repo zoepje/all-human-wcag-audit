@@ -11,7 +11,7 @@ Welke website heb je getest? Beschrijf de website en upload een screenshot.
 
 Toon een screenshot van het Lighthouse Accessibility test resultaat.
 
-Schrijf een een samenvatting van de test bevindingen.
+Schrijf een samenvatting van de test bevindingen.
 
 
 ## Licentie
