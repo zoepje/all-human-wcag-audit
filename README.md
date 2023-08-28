@@ -14,3 +14,4 @@ Schrijf een samenvatting van de test bevindingen.
 
 ## Licentie
 
+This project is licensed under the terms of the [MIT license](./LICENSE).
