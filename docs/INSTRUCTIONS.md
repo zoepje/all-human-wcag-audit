@@ -8,17 +8,15 @@ Deze leertaak hoort bij sprint **All Human**. Dit is een deeltaak die je individ
 
 In het college S03W1-01-Sprintplanning-All-Human-WCAG wordt behandeld hoe je een WCAG test kan uitvoeren.
 
+Deze deeltaak hoort bij de leertaak:
+- [All human - Accessible Website](https://github.com/fdnd-task/all-human-accessible-website)
 
-
- 
 ## Doel van deze opdracht
 
 Je leert hoe je een toegankelijkheids test kan uitvoeren en je presenteert je bevindingen.
 
-
 ## Werkwijze
 Deze opdracht gaat over [testen](#testen) van de DLC.
-
 
 ### Testen
 <!-- *In de testfase test je of een website goed werkt.* -->
@@ -34,11 +32,9 @@ Voor het testen van toegankelijkheid kun je een website automatisch testen in de
 1. Eerst ga je een [Lighthouse test](#1-lighthouse-audit) doen van een bestaande website en documenteer je de belangrijkste bevindingen uit de test in je Wiki
 2. Daarna ga je [met de hand](#2-handmatige-tests) dezelfde website verder testen en documenteer je de bevindingen van de tests.
 
-
 ### 1. Lighthouse Audit
 
 Lighthouse is een geautomatiserde test die je in een Chrome browser kan uitvoeren. In de Devtools kun je de Lighthouse gebruiken. Je begint de toegankelijkheidstest met een Lighthouse Audit.  
-
 #### Aanpak
 
 - Ga naar een bestaande website
@@ -51,12 +47,10 @@ Lighthouse is een geautomatiserde test die je in een Chrome browser kan uitvoere
 - Schrijf bij elke onderdeel in je eigen woorden wat het betekent. 
 - Schrijf bij de problemen hoe je dit in code zou kunnen oplossen.
 
-
 #### Materiaal Lighthouse Audit
 
  - [Test accessibility with Chrome DevTools](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
  - [Lighthouse documentation](https://developer.chrome.com/docs/lighthouse/accessibility/)
-
 
 ### 2. Handmatige tests
 
@@ -80,14 +74,9 @@ Lighthouse is een geautomatiserde test die veel voorkomende toegankelijkheidspro
  - [VoiceOver een Mac OS screenreader](https://webaim.org/articles/voiceover/)
  - [JAWS on Windows](https://downloads.sensotec.be/Jaws/Sneltoetsen-JAWS2018.pdf)
 
-
-## Criteria
+## Definition of done
 
 Focus sprint 3: All Human - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp.
-
-Deze deeltaak hoort bij het gedragscriterium:
-
-- Methodisch handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe
 
 Deze opdracht is done als:
 
