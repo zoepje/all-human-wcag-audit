@@ -76,8 +76,6 @@ Lighthouse is een geautomatiserde test die veel voorkomende toegankelijkheidspro
 
 ## Definition of done
 
-Focus sprint 3: All Human - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp.
-
 Deze opdracht is done als:
 
 - [ ] Je hebt een Lighthouse test gedaan op een bestaande website en de test is gedocumenteerd in de Wiki van deze deeltaak
