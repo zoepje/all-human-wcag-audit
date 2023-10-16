@@ -2,15 +2,15 @@
 
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+Doe een WCAG test op een bestaande website en rapporteer daarover.
 
 ## Titel Website
 
 Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
+Toon een screenshot van het Lighthouse Accessibility testresultaat.
 
-Schrijf een samenvatting van de test bevindingen.
+Schrijf een samenvatting van de testbevindingen.
 
 ## Licentie
 
