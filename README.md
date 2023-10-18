@@ -2,15 +2,28 @@
 
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daarover.
+Ik heb een WCAG test op [Reneé Rapp](https://www.reneerapp.com/) website gedaan.
 
-## Titel Website
+## Reneé Rapp
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+De [Reneé Rapp](https://www.reneerapp.com/) website is de oficial website van de zangeress Reneé Rapp. Hier op kun je haar nieuwe album, merch en tour dates zien. 
 
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
 
-Schrijf een samenvatting van de testbevindingen.
+<img width="1300" alt="Screenshot 2023-10-18 at 11 08 46 AM" src="https://github.com/zoepje/all-human-wcag-audit/assets/144004461/3654675b-0cb6-48a7-a8e5-79a6f9c5a50b">
+
+
+
+Uit de Lighthouse Accessibility test is dit testresultaat gekomen.
+
+<img width="1300" alt="Screenshot 2023-10-16 at 11 34 37 AM" src="https://github.com/zoepje/all-human-wcag-audit/assets/144004461/b62683f3-685d-4c29-8f18-54c66e5b74d5">
+
+Er kwamen 4 aandachtspunten uit deze test, zoals:
+* Dubbelen IDs
+* Contrast tussen achtergrond en text
+* Linkjes hebben geen naam
+* Headings staan niet in logische volgorde
+
+Als je meer uitleg hier over wilt kun je dat [hier](https://github.com/zoepje/all-human-wcag-audit/wiki) vinden.
 
 ## Licentie
 
